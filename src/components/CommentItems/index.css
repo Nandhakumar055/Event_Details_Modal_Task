@@ -1,0 +1,26 @@
+
+.comments-item{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 100%;
+}
+
+.comments-con{
+    display: flex;
+}
+
+.com-user-name{
+    margin: 5px 0px;
+    color: green;
+}
+.comments-text{
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.trash-icon{
+    color:  #E92C2C;
+    width: 20px;
+    cursor: pointer;
+}
